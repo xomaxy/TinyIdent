@@ -1,6 +1,8 @@
 # TinyIdent
 Scripts for indentation analysis in Atomic Force Microscopy (AFM)
 
+**All code from this repository follows the license, except for the `legacy-code` folder, which is under the View-Only License (VOL).**
+
 ---
 
 ## TinyIdent Checklist
